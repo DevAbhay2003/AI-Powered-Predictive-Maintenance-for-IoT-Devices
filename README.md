@@ -213,3 +213,8 @@ AI-Predictive-Maintenance-IoT/
 ## 📜 License & Citation
 
 This project is open-source under the [MIT License](LICENSE). Ideal for students, researchers, and engineers demonstrating industrial IoT AI systems.
+
+---
+
+## AUTHOR 
+**Author**: **Abhishek Basu — Embedded Systems Student GitHub: [DevAbhay2003](https://github.com/DevAbhay2003?tab=repositories) · LinkedIn: [Abhishek Basu](https://www.linkedin.com/in/abhishek-basu-68b1b1342/)**
